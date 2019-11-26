@@ -1,0 +1,20 @@
+
+
+img {
+  max-width: 100%;
+}
+
+
+h2 {
+  color: white;
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 2rem;
+}
+
+.blog-post {
+  margin-top: 2rem;
+}
+
+.readmoreclick {
+text-decoration: underline;
+}
