@@ -69,6 +69,7 @@ p {
   font-size: 3rem;
   /* change this colour for the menu */
   color: #ffffff;
+  text-align: right;
 }
 
 a {
