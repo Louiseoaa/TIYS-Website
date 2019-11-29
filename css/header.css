@@ -61,15 +61,14 @@ p {
     width: 100%;
   }
   h1 {
-    font-size: 3.5em;
+    font-size: 4em;
   }
 }
 .menu {
   font-family: 'Cedarville Cursive', cursive;
-  font-size: 3rem;
+  font-size: 2rem;
   /* change this colour for the menu */
   color: #ffffff;
-  text-align: right;
 }
 
 a {

@@ -1,0 +1,15 @@
+
+h2 {
+  color: white;
+  font-family: 'Cedarville Cursive', cursive;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.profile-pic {
+  display: block;
+  margin: 0 auto;
+  padding: 1rem;
+  border-radius: 50%;
+  max-width: 20rem;
+}
