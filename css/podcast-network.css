@@ -7,7 +7,7 @@ h2 {
 }
 h3 {  color: white;
   font-family: 'Cedarville Cursive', cursive;
-  text-align: left;
+  text-align: center;
   font-size: 2rem;
 }
 
@@ -31,7 +31,7 @@ h3 {  color: white;
 }*/
 p {
   color: white;
-  padding-top: none
+  padding: 1rem
 }
 
 /*.full-container {
