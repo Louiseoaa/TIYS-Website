@@ -5,6 +5,11 @@ h2 {
   text-align: center;
   font-size: 2rem;
 }
+h3 {  color: white;
+  font-family: 'Cedarville Cursive', cursive;
+  text-align: left;
+  font-size: 2rem;
+}
 
 .profile-pic {
   display: block;
@@ -13,3 +18,61 @@ h2 {
   border-radius: 50%;
   max-width: 20rem;
 }
+/*Neon*/
+.red-neon-pod {
+  text-align: left;
+  font-size: 1rem !important;
+  margin: 2rem 0 !important;
+  padding: 0
+}
+
+/*.plain-hover:hover {
+  text-decoration: none;
+}*/
+p {
+  color: white;
+  padding-top: none
+}
+
+/*.full-container {
+  margin: 1rem;
+  margin-top: 0.75rem;
+}
+
+.social-media {
+  max-width: 1rem;
+} */
+/*Neon*/
+.red-neon-pod {
+  color: white;
+  font-family: 'Monoton', cursive;
+  /*-webkit-animation: neon1 1.5s ease-in-out infinite alternate;
+  -moz-animation: neon1 1.5s ease-in-out infinite alternate;
+  animation: neon1 1.5s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes neon1 {
+  from {
+    text-shadow: 0 0 10px white, 0 0 20px white, 0 0 30px white, 0 0 40px #FF1177, 0 0 70px #FF1177, 0 0 80px #FF1177, 0 0 100px #FF1177, 0 0 150px #FF1177;
+  }
+  to {
+    text-shadow: 0 0 5px white,0 0 10px white, 0 0 15px white, 0 0 20px #FF1177, 0 0 35px #FF1177, 0 0 40px #FF1177, 0 0 50px #FF1177, 0 0 75px #FF1177;
+  }
+}
+
+@keyframes neon1 {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #FF1177, 0 0 70px #FF1177, 0 0 80px #FF1177, 0 0 100px #FF1177, 0 0 150px #FF1177;
+  }
+  to {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #FF1177, 0 0 35px #FF1177, 0 0 40px #FF1177, 0 0 50px #FF1177, 0 0 75px #FF1177;
+  }*/
+}
+
+/*media (max-width: 650px) {
+  #container {
+    width: 100%;
+  }
+  h1 {
+    font-size: 0.5em;
+  }*/
